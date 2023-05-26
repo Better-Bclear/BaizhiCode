@@ -1,4 +1,4 @@
-package com.baizhi.jinzhanqing;
+package com.baizhi.jinzhanqing.classExample;
 
 import java.util.Scanner;
 /*

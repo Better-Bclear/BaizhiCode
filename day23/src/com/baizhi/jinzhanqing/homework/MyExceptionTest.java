@@ -1,4 +1,4 @@
-package com.baizhi.jinzhanqing;
+package com.baizhi.jinzhanqing.homework;
 
 public class MyExceptionTest {
     public static void main(String[] args) {

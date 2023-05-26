@@ -1,4 +1,4 @@
-package com.baizhi.jinzhanqing;
+package com.baizhi.jinzhanqing.classExample;
 /*
 * 小王开店，但是中间生病了
 * */

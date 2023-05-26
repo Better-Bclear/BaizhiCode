@@ -1,4 +1,4 @@
-package com.baizhi.jinzhanqing;
+package com.baizhi.jinzhanqing.classExample;
 
 /*
 * 将异常抛出的一个简单的例子

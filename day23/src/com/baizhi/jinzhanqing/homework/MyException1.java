@@ -1,4 +1,4 @@
-package com.baizhi.jinzhanqing;
+package com.baizhi.jinzhanqing.homework;
 
 /*
 * 自定义编译时异常：继承Exception，并添加构造方法
