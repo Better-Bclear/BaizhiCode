@@ -1,0 +1,3 @@
+# BaizhiCode
+CoreJava学习过程
+本项目记录了在CoreJava过程中的学习内容，以及在此过程中的LeetCode算法题
