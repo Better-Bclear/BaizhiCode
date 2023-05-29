@@ -1,4 +1,4 @@
-package com.baizhi.jinzhanqing.homework;
+package com.baizhi.jinzhanqing.homework.Exception;
 
 /*
 * 自定义异常：继承运行时异常父类，并实现构造方法

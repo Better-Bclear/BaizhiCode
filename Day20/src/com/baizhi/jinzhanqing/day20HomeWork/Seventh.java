@@ -27,6 +27,9 @@ public class Seventh {
         map.put("1938","意大利");
         map.put("1934","意大利");
         map.put("1930","乌拉圭");
+        map.forEach((k,v)->{
+            System.out.println(k+"/"+v);
+        });
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入世界杯年份");
         String next = scanner.next();
