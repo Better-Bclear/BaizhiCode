@@ -12,8 +12,11 @@ public class Test5 {
         FileWriter fileWriter = null;
         try {
             fileWriter = new FileWriter("day24//file//b.txt");
-            fileWriter.write("中");
-            fileWriter.write("国");
+//            fileWriter.write("中");
+//            fileWriter.write("国");
+            //上述方式一个一个读取字符程序比较冗余
+            //读取多个字符
+            fileWriter.write("我爱你中国");
             //关闭流 - 关流之前会将缓冲区中的数据写入到文件中
             //fileWriter.close();
             //将缓冲区中的数据刷到文件中

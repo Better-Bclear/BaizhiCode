@@ -26,15 +26,16 @@ public class Test4 {
         } catch (IOException e) {
             e.printStackTrace();
         }finally {
+            if (fileOutputStream != null) {
                 try {
-                    if (fileOutputStream != null) {
-                        fileOutputStream.close();
-                    }
+                    fileOutputStream.close();
                 } catch (IOException e) {
                     e.printStackTrace();
                 }finally {
                     fileOutputStream = null;
                 }
             }
+        }
+
     }
 }
