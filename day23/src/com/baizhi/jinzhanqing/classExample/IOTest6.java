@@ -1,4 +1,4 @@
-package com.baizhi.jinzhanqing.classExmaple;
+package com.baizhi.jinzhanqing.classExample;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
